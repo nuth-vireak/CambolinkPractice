@@ -11,6 +11,10 @@
 		683B64252C788CBA00EB5D0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683B64242C788CBA00EB5D0A /* ContentView.swift */; };
 		683B64272C788CBB00EB5D0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 683B64262C788CBB00EB5D0A /* Assets.xcassets */; };
 		683B642A2C788CBB00EB5D0A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 683B64292C788CBB00EB5D0A /* Preview Assets.xcassets */; };
+		683B64312C788CF500EB5D0A /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683B64302C788CF500EB5D0A /* HomeView.swift */; };
+		683B64332C788D0400EB5D0A /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683B64322C788D0400EB5D0A /* NotificationView.swift */; };
+		683B64352C788D0F00EB5D0A /* TicketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683B64342C788D0F00EB5D0A /* TicketView.swift */; };
+		683B64372C788E3700EB5D0A /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683B64362C788E3700EB5D0A /* Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		683B64242C788CBA00EB5D0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		683B64262C788CBB00EB5D0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		683B64292C788CBB00EB5D0A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		683B64302C788CF500EB5D0A /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		683B64322C788D0400EB5D0A /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
+		683B64342C788D0F00EB5D0A /* TicketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketView.swift; sourceTree = "<group>"; };
+		683B64362C788E3700EB5D0A /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +63,10 @@
 				683B64242C788CBA00EB5D0A /* ContentView.swift */,
 				683B64262C788CBB00EB5D0A /* Assets.xcassets */,
 				683B64282C788CBB00EB5D0A /* Preview Content */,
+				683B64302C788CF500EB5D0A /* HomeView.swift */,
+				683B64322C788D0400EB5D0A /* NotificationView.swift */,
+				683B64342C788D0F00EB5D0A /* TicketView.swift */,
+				683B64362C788E3700EB5D0A /* Color.swift */,
 			);
 			path = CambolinkPractice;
 			sourceTree = "<group>";
@@ -137,8 +149,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				683B64312C788CF500EB5D0A /* HomeView.swift in Sources */,
+				683B64352C788D0F00EB5D0A /* TicketView.swift in Sources */,
 				683B64252C788CBA00EB5D0A /* ContentView.swift in Sources */,
 				683B64232C788CBA00EB5D0A /* CambolinkPracticeApp.swift in Sources */,
+				683B64332C788D0400EB5D0A /* NotificationView.swift in Sources */,
+				683B64372C788E3700EB5D0A /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
